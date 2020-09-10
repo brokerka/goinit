@@ -1,0 +1,2 @@
+# goinit
+golang init
